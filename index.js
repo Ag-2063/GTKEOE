@@ -1,6 +1,6 @@
 console.log("Starting Hello, World.")
 
-function makeRed() {
-	console.log("Calling makeRed function")
-	document.getElementById("msg").classList.add("red");
+function makeGreen() {
+	console.log("Calling makeGreen function")
+	document.getElementById("msg").classList.add("green");
 }
